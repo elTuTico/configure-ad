@@ -38,7 +38,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/elTuTico/configure-ad/assets/137955237/1bad6165-c53a-4867-be1e-cc237722186e" src="https://github.com/elTuTico/configure-ad/assets/137955237/9cf1e3ee-9fdb-48c9-a1ad-3cfdd273af52" height="80%" width="80%" alt="timers"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
