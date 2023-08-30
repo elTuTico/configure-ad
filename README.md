@@ -33,7 +33,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To start off, utilize Microsoft Azure to create two virtual machines. One will function as a Window’s Server called DC-1 and the other as  Client that will access DC-1 while running Active Directory. DC-1 will be a Windows Server with 2 vcpus, 16GB memory, and an automatic vnet. Client will be a Windows PC with 2 vcpus, 16 GB memory, and the vnet of DC-1. 
+To start off, utilize Microsoft Azure to create two virtual machines. One will function as a Window’s Server called DC and the other as  Client that will access DC while running Active Directory. DC will be a Windows Server with 2 vcpus, 16GB memory, and an automatic vnet. Client will be a Windows PC with 2 vcpus, 16 GB memory, and the vnet of DC. 
 </p>
 <br />
 
