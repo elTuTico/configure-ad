@@ -30,7 +30,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/elTuTico/configure-ad/assets/137955237/ecdba355-660e-47ea-a329-5dd1cc2e0b41" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/elTuTico/configure-ad/assets/137955237/58447002-8418-4e70-963c-95f007717db1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 To start off, utilize Microsoft Azure to create two virtual machines. One will function as a Window’s Server called DC and the other as  Client that will access DC while running Active Directory. DC will be a Windows Server with 2 vcpus, 16GB memory, and an automatic vnet. Client will be a Windows PC with 2 vcpus, 16 GB memory, and the vnet of DC. 
@@ -41,7 +44,7 @@ To start off, utilize Microsoft Azure to create two virtual machines. One will f
 <img src="https://github.com/elTuTico/configure-ad/assets/137955237/1bad6165-c53a-4867-be1e-cc237722186e" src="https://github.com/elTuTico/configure-ad/assets/137955237/9cf1e3ee-9fdb-48c9-a1ad-3cfdd273af52" height="80%" width="80%" alt="timers"/>
 </p>
 <p>
-Once both VMs are functioning, change the Domain Controller’s (DC) NIC Private IP address to static. By navigating to the DC’s “networking tab”, clicking “Network Interface”, and finally opening up “IP configuration”. From there change the IP address from dynamic to static. 
+--Once both VMs are functioning, change the Domain Controller’s (DC) NIC Private IP address to static. By navigating to the DC’s “networking tab”, clicking “Network Interface”, and finally opening up “IP configuration”. From there change the IP address from dynamic to static. 
 </p>
 <br />
 
